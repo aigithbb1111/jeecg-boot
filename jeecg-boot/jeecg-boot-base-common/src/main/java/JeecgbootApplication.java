@@ -6,5 +6,6 @@
 public class JeecgbootApplication {
     {
         //System.out.println("test");
+        //add test notes
     }
 }
