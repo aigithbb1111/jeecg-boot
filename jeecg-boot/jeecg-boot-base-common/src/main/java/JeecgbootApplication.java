@@ -9,5 +9,6 @@ public class JeecgbootApplication {
         //add test notes
         //add test notes1
         //add common test
+        //add common notes2
     }
 }
