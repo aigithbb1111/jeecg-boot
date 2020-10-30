@@ -65,4 +65,5 @@ public class SampleTest {
 	}
 	//author:lvdandan-----date：20190315---for:添加数据日志测试----
 	// system test1
+	// system test2
 }
